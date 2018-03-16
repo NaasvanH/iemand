@@ -1,3 +1,6 @@
+  [![Travis build status](https://travis-ci.org/NaasvanH/iemand.svg?branch=master)](https://travis-ci.org/NaasvanH/iemand)
+  [![Coverage status](https://codecov.io/gh/NaasvanH/iemand/branch/master/graph/badge.svg)](https://codecov.io/github/NaasvanH/iemand?branch=master)
+  
 # iemand
 
 The goal of iemand is to ...
