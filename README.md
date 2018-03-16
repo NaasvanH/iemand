@@ -1,3 +1,5 @@
+  [![Travis build status](https://travis-ci.org/NaasvanH/iemand.svg?branch=master)](https://travis-ci.org/NaasvanH/iemand)
+
 # iemand
 
 The goal of iemand is to ...
